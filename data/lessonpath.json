@@ -1,0 +1,525 @@
+{
+  "modules": [
+    {
+      "id": "module_1",
+      "name": "Módulo 1: Saudações",
+      "question": "Como se diz 'Bom dia' em inglês?",
+      "options": [
+        "Good night",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "correct": 1,
+      "xp": 15
+    },
+    {
+      "id": "module_2",
+      "name": "Módulo 2: Cores",
+      "question": "Qual é a tradução de 'Red'?",
+      "options": [
+        "Azul",
+        "Verde",
+        "Vermelho",
+        "Amarelo"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_3",
+      "name": "Módulo 3: Números",
+      "question": "Como se escreve o número 5 em inglês?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_4",
+      "name": "Módulo 4: Pronomes Pessoais",
+      "question": "Qual pronome substitui 'O carro' (The car)?",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "correct": 2,
+      "xp": 25
+    },
+    {
+      "id": "module_5",
+      "name": "Módulo 5: Dias da Semana",
+      "question": "Qual é o dia da semana 'Sunday'?",
+      "options": [
+        "Segunda-feira",
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "correct": 3,
+      "xp": 15
+    },
+    {
+      "id": "module_6",
+      "name": "Módulo 6: Verbo 'To Be' (Ser/Estar)",
+      "question": "Complete a frase: 'I ___ a student.'",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correct": 2,
+      "xp": 30
+    },
+    {
+      "id": "module_7",
+      "name": "Módulo 7: Animais",
+      "question": "Como se diz 'Cachorro' em inglês?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Bird",
+        "Fish"
+      ],
+      "correct": 1,
+      "xp": 10
+    },
+    {
+      "id": "module_8",
+      "name": "Módulo 8: Comida",
+      "question": "Qual dessas palavras significa 'Maçã'?",
+      "options": [
+        "Banana",
+        "Orange",
+        "Grape",
+        "Apple"
+      ],
+      "correct": 3,
+      "xp": 15
+    },
+    {
+      "id": "module_9",
+      "name": "Módulo 9: Perguntas Simples",
+      "question": "Como se pergunta 'Qual é o seu nome?' em inglês?",
+      "options": [
+        "How are you?",
+        "Where are you from?",
+        "What is your name?",
+        "How old are you?"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_10",
+      "name": "Módulo 10: Adjetivos Básicos",
+      "question": "Qual é a tradução de 'Big'?",
+      "options": [
+        "Pequeno",
+        "Rápido",
+        "Grande",
+        "Lento"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_11",
+      "name": "Módulo 11: Meses",
+      "question": "Qual é o quinto mês do ano em inglês?",
+      "options": [
+        "June",
+        "March",
+        "May",
+        "August"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_12",
+      "name": "Módulo 12: Estações",
+      "question": "Como se diz 'Outono' em inglês (no inglês americano)?",
+      "options": [
+        "Spring",
+        "Autumn",
+        "Winter",
+        "Fall"
+      ],
+      "correct": 3,
+      "xp": 10
+    },
+    {
+      "id": "module_13",
+      "name": "Módulo 13: Artigos Definidos e Indefinidos",
+      "question": "Qual artigo (a, an, the) é usado para se referir a algo *específico* e *único*?",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "None"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_14",
+      "name": "Módulo 14: Verbo 'To Have'",
+      "question": "Complete a frase: 'They ___ a big house.'",
+      "options": [
+        "has",
+        "is having",
+        "have",
+        "to have"
+      ],
+      "correct": 2,
+      "xp": 25
+    },
+    {
+      "id": "module_15",
+      "name": "Módulo 15: Preposições I",
+      "question": "A palavra 'in' (dentro de) é usada para descrever a localização de algo...",
+      "options": [
+        "Sobre uma superfície",
+        "Perto de algo",
+        "Dentro de um espaço fechado",
+        "Abaixo de algo"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_16",
+      "name": "Módulo 16: Horas",
+      "question": "Como se diz 'três e quarenta e cinco' em inglês, usando 'quarter'?",
+      "options": [
+        "Four o'clock minus fifteen",
+        "Quarter past four",
+        "Quarter to three",
+        "Quarter to four"
+      ],
+      "correct": 3,
+      "xp": 15
+    },
+    {
+      "id": "module_17",
+      "name": "Módulo 17: Família",
+      "question": "Qual é a tradução de 'Sister'?",
+      "options": [
+        "Irmão",
+        "Filha",
+        "Irmã",
+        "Tia"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_18",
+      "name": "Módulo 18: Adjetivos I",
+      "question": "Qual palavra significa 'Inteligente' (clever/intelligent)?",
+      "options": [
+        "Stupid",
+        "Brave",
+        "Intelligent",
+        "Slow"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_19",
+      "name": "Módulo 19: Bebidas",
+      "question": "Tradução de 'Water'",
+      "options": [
+        "Suco",
+        "Leite",
+        "Café",
+        "Água"
+      ],
+      "correct": 3,
+      "xp": 10
+    },
+    {
+      "id": "module_20",
+      "name": "Módulo 20: Verbos I",
+      "question": "Como se diz 'Ir' em inglês?",
+      "options": [
+        "Walk",
+        "Come",
+        "Go",
+        "See"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_21",
+      "name": "Módulo 21: Plural",
+      "question": "Qual o plural correto de 'Man' (Homem)?",
+      "options": [
+        "Mans",
+        "Men",
+        "Manes",
+        "Man's"
+      ],
+      "correct": 1,
+      "xp": 15
+    },
+    {
+      "id": "module_22",
+      "name": "Módulo 22: Preposições II",
+      "question": "Qual preposição (at, on, in) usamos antes de *dias específicos* da semana (e.g., Sunday)?",
+      "options": [
+        "In",
+        "At",
+        "On",
+        "Of"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_23",
+      "name": "Módulo 23: Palavras de Pergunta I",
+      "question": "Qual a tradução de 'Onde'?",
+      "options": [
+        "What",
+        "When",
+        "Where",
+        "Why"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_24",
+      "name": "Módulo 24: Partes do Dia",
+      "question": "Qual é o período da tarde em inglês?",
+      "options": [
+        "Morning",
+        "Noon",
+        "Afternoon",
+        "Midnight"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_25",
+      "name": "Módulo 25: Clima",
+      "question": "Qual a palavra para 'Sol'?",
+      "options": [
+        "Cloud",
+        "Wind",
+        "Snow",
+        "Sun"
+      ],
+      "correct": 3,
+      "xp": 10
+    },
+    {
+      "id": "module_26",
+      "name": "Módulo 26: Corpo Humano",
+      "question": "Como se diz 'Braço' em inglês?",
+      "options": [
+        "Leg",
+        "Foot",
+        "Arm",
+        "Hand"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_27",
+      "name": "Módulo 27: Advérbios I",
+      "question": "Qual palavra significa 'Rapidamente' (ending in -ly)?",
+      "options": [
+        "Fast",
+        "Quickly",
+        "Slow",
+        "Easy"
+      ],
+      "correct": 1,
+      "xp": 20
+    },
+    {
+      "id": "module_28",
+      "name": "Módulo 28: Opostos I",
+      "question": "Qual o oposto de 'Tall' (Alto)?",
+      "options": [
+        "Small",
+        "Short",
+        "Big",
+        "Thin"
+      ],
+      "correct": 1,
+      "xp": 10
+    },
+    {
+      "id": "module_29",
+      "name": "Módulo 29: Números Grandes",
+      "question": "Como se escreve o número 100 em inglês?",
+      "options": [
+        "Ten",
+        "Thousand",
+        "One hundred",
+        "One million"
+      ],
+      "correct": 2,
+      "xp": 25
+    },
+    {
+      "id": "module_30",
+      "name": "Módulo 30: Presente Contínuo",
+      "question": "A frase 'I am eating' significa...",
+      "options": [
+        "Eu comi",
+        "Eu como",
+        "Eu estou comendo",
+        "Eu vou comer"
+      ],
+      "correct": 2,
+      "xp": 30
+    },
+    {
+      "id": "module_31",
+      "name": "Módulo 31: Pronomes Demonstrativos",
+      "question": "Qual palavra usamos para se referir a algo *próximo* (singular)?",
+      "options": [
+        "Those",
+        "These",
+        "This",
+        "That"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_32",
+      "name": "Módulo 32: Lugares",
+      "question": "Tradução de 'Hospital'",
+      "options": [
+        "Church",
+        "Park",
+        "Hospital",
+        "Cinema"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_33",
+      "name": "Módulo 33: Preposições III",
+      "question": "Qual preposição indica movimento 'para fora' de algo?",
+      "options": [
+        "Into",
+        "Over",
+        "Out of",
+        "Through"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_34",
+      "name": "Módulo 34: Cores II",
+      "question": "Como se diz 'Roxo' ou 'Púrpura' em inglês?",
+      "options": [
+        "Pink",
+        "Brown",
+        "Purple",
+        "Gray"
+      ],
+      "correct": 2,
+      "xp": 10
+    },
+    {
+      "id": "module_35",
+      "name": "Módulo 35: Profissões",
+      "question": "Qual a tradução de 'Teacher'?",
+      "options": [
+        "Médico",
+        "Policial",
+        "Professor(a)",
+        "Cozinheiro"
+      ],
+      "correct": 2,
+      "xp": 20
+    },
+    {
+      "id": "module_36",
+      "name": "Módulo 36: Verbos Modais",
+      "question": "O que o verbo modal 'Must' expressa?",
+      "options": [
+        "Possibilidade",
+        "Habilidade",
+        "Permissão",
+        "Obrigação/Necessidade forte"
+      ],
+      "correct": 3,
+      "xp": 25
+    },
+    {
+      "id": "module_37",
+      "name": "Módulo 37: Rotina",
+      "question": "Tradução de 'Acordar'",
+      "options": [
+        "Go to bed",
+        "Sleep",
+        "Wake up",
+        "Have breakfast"
+      ],
+      "correct": 2,
+      "xp": 15
+    },
+    {
+      "id": "module_38",
+      "name": "Módulo 38: Adjetivos Possessivos",
+      "question": "Qual palavra usamos para indicar posse de 'você'?",
+      "options": [
+        "His",
+        "Her",
+        "Our",
+        "Your"
+      ],
+      "correct": 3,
+      "xp": 10
+    },
+    {
+      "id": "module_39",
+      "name": "Módulo 39: Palavras de Pergunta II",
+      "question": "Qual a tradução de 'Por quê?' (em perguntas)?",
+      "options": [
+        "Who",
+        "How",
+        "What",
+        "Why"
+      ],
+      "correct": 3,
+      "xp": 20
+    },
+    {
+      "id": "module_40",
+      "name": "Módulo 40: Expressões Comuns",
+      "question": "Qual expressão é usada para pedir desculpa?",
+      "options": [
+        "Thank you",
+        "Excuse me",
+        "Hello",
+        "Goodbye"
+      ],
+      "correct": 1,
+      "xp": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "405391881837740032": {
+    "xp": 95,
+    "level": 2,
+    "lessons_completed": 3,
+    "daily_streak": 1,
+    "daily_last": "2025-10-09",
+    "daily_attempts": 1,
+    "achievements": {
+      "firstLesson": true,
+      "xp100": true
+    },
+    "lastGiftDay": "2025-10-09",
+    "duelos_perdidos": 4,
+    "giftsReceived": 1
+  },
+  "1424813971080216740": {
+    "xp": 30,
+    "level": 1,
+    "lessons_completed": 0,
+    "giftsReceived": 1
+  },
+  "733786788845322310": {
+    "xp": 55,
+    "level": 2,
+    "lessons_completed": 2,
+    "duelos_ganhos": 4,
+    "lastGiftDay": "2025-10-09"
+  }
+}

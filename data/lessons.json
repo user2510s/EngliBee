@@ -1,0 +1,235 @@
+[
+  {
+    "id": 9,
+    "question": "O que significa 'house' em português?",
+    "options": ["Carro", "Casa", "Árvore", "Cadeira"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 10,
+    "question": "Qual é a tradução de 'water'?",
+    "options": ["Fogo", "Terra", "Vento", "Água"],
+    "correct": 3,
+    "xp": 10
+  },
+  {
+    "id": 11,
+    "question": "O que significa 'friend' em português?",
+    "options": ["Inimigo", "Amigo", "Professor", "Aluno"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 12,
+    "question": "Qual é a tradução de 'book'?",
+    "options": ["Lápis", "Caderno", "Livro", "Borracha"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 13,
+    "question": "O que significa 'yellow' em português?",
+    "options": ["Azul", "Vermelho", "Verde", "Amarelo"],
+    "correct": 3,
+    "xp": 10
+  },
+  {
+    "id": 14,
+    "question": "Qual é a tradução de 'tomorrow'?",
+    "options": ["Ontem", "Hoje", "Amanhã", "Agora"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 15,
+    "question": "O que significa 'happy' em português?",
+    "options": ["Triste", "Feliz", "Bravo", "Cansado"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 16,
+    "type": "fill-in-the-blank",
+    "question": "Complete: The cat is ___ the chair.",
+    "options": ["in", "on", "under", "with"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 17,
+    "type": "fill-in-the-blank",
+    "question": "Complete: They ___ a new movie last night.",
+    "options": ["see", "saw", "sees", "seeing"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 18,
+    "type": "fill-in-the-blank",
+    "question": "Complete: This is ___ orange.",
+    "options": ["a", "an", "the", "one"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 19,
+    "type": "fill-in-the-blank",
+    "question": "Complete: We ___ studying for the test now.",
+    "options": ["is", "am", "are", "be"],
+    "correct": 2,
+    "xp": 15
+  },
+  {
+    "id": 20,
+    "type": "fill-in-the-blank",
+    "question": "Qual é o plural de 'child'?",
+    "options": ["Childs", "Children", "Childes", "Childen"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 21,
+    "type": "fill-in-the-blank",
+    "question": "Complete: She ___ her teeth twice a day.",
+    "options": ["brush", "brushes", "brushing", "brushed"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 22,
+    "type": "fill-in-the-blank",
+    "question": "Complete: I like to drink ___ milk.",
+    "options": ["much", "many", "some", "a few"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 23,
+    "type": "sentence-translation",
+    "question": "We bought a new car.",
+    "options": ["Nós compramos um carro novo", "Nós vendemos um carro velho", "Eu comprei um carro novo", "Eles compraram uma casa"],
+    "correct": 0,
+    "xp": 15
+  },
+  {
+    "id": 24,
+    "type": "sentence-translation",
+    "question": "The weather is cold today.",
+    "options": ["O tempo está quente hoje", "O tempo está frio hoje", "Está ventando muito", "Está chovendo agora"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 25,
+    "type": "sentence-translation",
+    "question": "Can you help me?",
+    "options": ["Você pode me ligar?", "Você pode me ajudar?", "Você quer beber algo?", "Você está ocupado?"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 26,
+    "type": "sentence-translation",
+    "question": "I am going to travel next month.",
+    "options": ["Eu viajei no mês passado", "Eu vou viajar no próximo mês", "Eu gosto de viajar", "Eu não quero viajar"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 27,
+    "type": "sentence-translation",
+    "question": "Where are you from?",
+    "options": ["Onde você mora?", "O que você está fazendo?", "De onde você é?", "Qual é o seu nome?"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 28,
+    "type": "sentence-translation",
+    "question": "He works at the bank.",
+    "options": ["Ele estuda no banco", "Ele trabalha no banco", "Ele está procurando um emprego", "Ele dirige um caminhão"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 29,
+    "type": "sentence-translation",
+    "question": "My favorite color is blue.",
+    "options": ["Minha cor favorita é amarela", "Minha cor favorita é azul", "Eu odeio a cor azul", "Meu animal favorito é o cachorro"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 30,
+    "type": "sentence-translation",
+    "question": "She doesn't speak French.",
+    "options": ["Ela fala francês fluentemente", "Ela não fala francês", "Ela aprendeu a falar francês", "Ela prefere falar inglês"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 31,
+    "type": "sentence-translation",
+    "question": "It is a difficult exercise.",
+    "options": ["É um exercício fácil", "É uma aula difícil", "É um exercício difícil", "É um dia cansativo"],
+    "correct": 2,
+    "xp": 15
+  },
+  {
+    "id": 32,
+    "type": "sentence-translation",
+    "question": "I need to wake up early.",
+    "options": ["Eu não preciso acordar", "Eu preciso acordar cedo", "Eu quero dormir tarde", "Eu preciso sair agora"],
+    "correct": 1,
+    "xp": 10
+  },
+  {
+    "id": 33,
+    "type": "sentence-translation",
+    "question": "This is not my pen.",
+    "options": ["Esta é minha caneta", "Esta caneta é nova", "Esta não é minha caneta", "Este é meu livro"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 34,
+    "type": "sentence-translation",
+    "question": "They have two brothers.",
+    "options": ["Eles têm uma irmã", "Elas não têm irmãos", "Eles têm dois irmãos", "Nós temos dois carros"],
+    "correct": 2,
+    "xp": 10
+  },
+  {
+    "id": 35,
+    "type": "sentence-translation",
+    "question": "We usually eat dinner at 7 PM.",
+    "options": ["Nós sempre almoçamos tarde", "Nós geralmente jantamos às 7 da noite", "Nós comemos fast food", "Nós vamos ao restaurante"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 36,
+    "type": "sentence-translation",
+    "question": "Is there a good restaurant nearby?",
+    "options": ["Não há restaurantes por perto", "Existe um bom museu por perto?", "Existe um bom restaurante por perto?", "Qual é o seu restaurante favorito?"],
+    "correct": 2,
+    "xp": 15
+  },
+  {
+    "id": 37,
+    "type": "sentence-translation",
+    "question": "I studied English for five years.",
+    "options": ["Eu estudo inglês agora", "Eu estudei inglês por cinco anos", "Eu vou estudar inglês", "Eu não gosto de estudar"],
+    "correct": 1,
+    "xp": 15
+  },
+  {
+    "id": 38,
+    "type": "sentence-translation",
+    "question": "You should drink more water.",
+    "options": ["Você deve comer mais frutas", "Você não deve beber água", "Você deveria beber mais água", "Você pode beber suco"],
+    "correct": 2,
+    "xp": 15
+  }
+]

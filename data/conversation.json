@@ -1,0 +1,508 @@
+{
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução mais comum para a saudação 'Olá' em inglês?",
+      "options": ["Hello", "Bye", "Thanks", "Goodnight"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "A palavra que você usa ao encontrar alguém é 'Hello'. As outras são para despedida, agradecimento ou para ir dormir."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Se você vê a cor vermelha, qual é a palavra correspondente em inglês?",
+      "options": ["Blue", "Green", "Red", "Yellow"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Pense na cor de uma maçã ou de um coração. 'Red' é 'Vermelho'. Lembre-se: Blue (Azul), Green (Verde), Yellow (Amarelo)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Como se diz o número 'Cinco' em inglês?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "O número 'Cinco' é 'Five'. É uma das primeiras palavras que aprendemos! Os vizinhos são: Four (Quatro) e Six (Seis)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual palavra você usa para expressar gratidão, dizendo 'Obrigado' em inglês?",
+      "options": ["Please", "Thanks", "Sorry", "Hello"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "'Thanks' é essencial para ser educado. Lembre-se: 'Please' (Por favor), 'Sorry' (Desculpe)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Se você quer saber que horas são, qual frase em inglês deve usar?",
+      "options": ["How are you?", "What time is it?", "Where is it?", "Who is it?"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "A pergunta sobre o tempo cronológico é 'What time is it?' (Que horas são?). Não confunda com perguntas sobre o tempo meteorológico ou o seu bem-estar."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a resposta mais comum e educada para a pergunta 'How are you?' (Como você está?)",
+      "options": ["I am fine, thank you!", "See you later!", "I don't know", "Good night!"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "Em geral, dizemos que estamos bem e agradecemos. 'I am fine, thank you!' é a resposta clássica e segura."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a forma casual e curta de dizer 'Bom dia' em inglês? (uma palavra)",
+      "correctAnswer": "Morning",
+      "xp": 5,
+      "tip": "É uma abreviação da saudação formal. Use-a com amigos e colegas no início do dia."
+    },
+    {
+      "type": "text",
+      "question": "Você está de bom humor. Qual é a palavra em inglês que significa 'Feliz'? (uma palavra)",
+      "correctAnswer": "Happy",
+      "xp": 5,
+      "tip": "Este é um adjetivo importante para descrever seu estado emocional. Lembre-se da música 'If you're happy and you know it...'"
+    },
+    {
+      "type": "text",
+      "question": "Qual é o verbo em inglês usado para expressar que você 'Gosta' de algo? (uma palavra)",
+      "correctAnswer": "Like",
+      "xp": 5,
+      "tip": "Pense no botão de 'curtir' nas redes sociais! É o verbo 'to like' (gostar)."
+    },
+    {
+      "type": "text",
+      "question": "Qual palavra em inglês significa 'Estudar'? (uma palavra)",
+      "correctAnswer": "Study",
+      "xp": 5,
+      "tip": "Você está fazendo isso agora! O verbo é 'to study'. Ex: 'I study English' (Eu estudo inglês)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Se você está com fome e precisa comer, como você diz 'Eu estou com fome'?",
+      "options": ["I am thirsty", "I am hungry", "I am sleepy", "I am tired"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "'I am hungry' é a frase certa. Não confunda 'hungry' (fome) com 'thirsty' (sede) ou 'tired' (cansaço)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual das frases a seguir significa 'Até logo'?",
+      "options": ["Goodbye", "See you later", "Hello", "Thank you"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "É uma despedida mais suave que 'Goodbye'. Literalmente, significa 'Vejo você mais tarde'."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a palavra em inglês para o número 'Dois'? (uma palavra)",
+      "correctAnswer": "Two",
+      "xp": 5,
+      "tip": "Cuidado com a ortografia! A palavra é curta e essencial."
+    },
+    {
+      "type": "text",
+      "question": "Qual palavra modal (que indica possibilidade/permissão) é usada para perguntar 'Posso...'? (uma palavra)",
+      "correctAnswer": "Can",
+      "xp": 5,
+      "tip": "A palavra é o verbo 'Can'. Ex: 'Can I go?' (Posso ir?)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Você está indo dormir. Qual é a forma correta de se despedir com 'Boa noite'?",
+      "options": ["Good morning", "Good afternoon", "Good night", "Good evening"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'Good night' apenas ao se despedir de alguém à noite ou antes de dormir. Se for para cumprimentar no início da noite, use 'Good evening'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Traduza a frase 'Eu gosto de música' para o inglês.",
+      "options": ["I like music", "I like movie", "I love painting", "I enjoy dance"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "Siga a ordem Sujeito + Verbo (gostar) + Objeto (música). 'Music' é o termo correto para 'música'."
+    },
+    {
+      "type": "text",
+      "question": "Qual palavra interrogativa (Wh-word) em inglês usamos para perguntar 'Onde'? (uma palavra)",
+      "correctAnswer": "Where",
+      "xp": 5,
+      "tip": "A 'Wh-word' que indica localização é 'Where'. Ex: 'Where are you?' (Onde você está?)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Complete a frase corretamente com o Verbo To Be: 'She ___ a student.'",
+      "options": ["is", "am", "are", "be"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "Para os pronomes de terceira pessoa do singular (He, She, It), o verbo 'to be' é conjugado como 'is' no presente simples."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual pronome pessoal significa 'Nós'?",
+      "options": ["You", "They", "We", "I"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "O pronome 'We' refere-se ao falante e a mais uma ou mais pessoas ('Nós')."
+    },
+    {
+      "type": "text",
+      "question": "Qual verbo em inglês significa 'Ter' ou 'Possuir'? (uma palavra)",
+      "correctAnswer": "Have",
+      "xp": 5,
+      "tip": "É um verbo fundamental para expressar posse. Ex: 'I have a car' (Eu tenho um carro)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução correta de 'Minha mãe'?",
+      "options": ["My brother", "My father", "My mother", "My sister"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "'Mother' é o termo mais comum para mãe. 'Brother' é irmão, 'Father' é pai, 'Sister' é irmã."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a tradução de 'Um' (artigo indefinido)? (uma palavra, minúscula)",
+      "correctAnswer": "a",
+      "xp": 5,
+      "tip": "Este artigo indefinido é usado antes de palavras que começam com som de consoante. Ex: 'a dog'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual palavra é usada para fazer uma pergunta de 'Sim' ou 'Não' no presente simples? (Verbo Auxiliar)",
+      "options": ["Do", "Did", "Is", "Will"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "'Do' é o auxiliar correto para a maioria dos sujeitos no presente simples. Ex: 'Do you like pizza?'"
+    },
+    {
+      "type": "text",
+      "question": "Como se diz 'Grande' em inglês? (uma palavra)",
+      "correctAnswer": "Big",
+      "xp": 5,
+      "tip": "Este adjetivo é usado para descrever tamanho. Ex: 'a big house'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual frase está na ordem correta (Sujeito + Verbo To Be + Adjetivo)?",
+      "options": ["Teacher a is she", "Is she a teacher", "She is a teacher", "A teacher she is"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "A estrutura básica afirmativa em inglês é sempre Sujeito (She) + Verbo (is) + Complemento (a teacher)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual preposição de lugar significa 'Em cima' ou 'Sobre'?",
+      "options": ["In", "Under", "On", "At"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'On' quando um objeto está fisicamente tocando a superfície de outro. Ex: 'The book is on the table'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Complete: 'My birthday is ___ July.'",
+      "options": ["at", "on", "in", "by"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'In' para meses, anos, estações e períodos mais longos de tempo."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é o plural de 'Car' (carro)?",
+      "options": ["Car's", "Cars", "Carres", "The Car"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "A maioria dos substantivos em inglês forma o plural simplesmente adicionando '-s' no final."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a palavra em inglês para o dia que vem depois de 'Today' (Hoje)? (uma palavra)",
+      "correctAnswer": "Tomorrow",
+      "xp": 5,
+      "tip": "Essa palavra é usada para falar sobre o futuro próximo. Se fosse o dia anterior, seria 'Yesterday'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a forma correta do verbo auxiliar para 'He' na negação? 'He ___ not like coffee.'",
+      "options": ["do", "does", "is", "have"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "Para a terceira pessoa do singular (He, She, It) no presente simples, use o auxiliar 'does'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução de 'Pai'?",
+      "options": ["Sister", "Mother", "Father", "Brother"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Esta é uma palavra básica de vocabulário familiar. 'Father' é o termo correto."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a palavra em inglês para a cor 'Azul'? (uma palavra)",
+      "correctAnswer": "Blue",
+      "xp": 5,
+      "tip": "Pense na cor do céu ou do mar em um dia ensolarado."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual frase indica posse? 'I ___ a beautiful dog.'",
+      "options": ["am", "do", "have", "like"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "O verbo 'to have' é o mais usado para expressar que você 'tem' ou 'possui' algo."
+    },
+    {
+      "type": "text",
+      "question": "Como se pergunta 'Quem' em inglês? (uma palavra)",
+      "correctAnswer": "Who",
+      "xp": 5,
+      "tip": "É uma das 'Wh-words' e é usada para perguntar sobre pessoas."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Escolha a frase negativa correta:",
+      "options": ["I not am a doctor.", "I am not a doctor.", "Not I am a doctor.", "I am doctor not."],
+      "correct": 1,
+      "xp": 10,
+      "tip": "A forma correta com o verbo 'to be' é Sujeito + Verbo 'to be' + 'not'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual adjetivo significa 'Novo'?",
+      "options": ["Old", "Small", "New", "Fast"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Se algo acabou de ser criado ou comprado, é 'New'. O oposto é 'Old' (velho)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Onde está a chave? 'The key is ___ the box.' (dentro da caixa)",
+      "options": ["on", "under", "in", "at"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'In' para indicar que algo está contido ou cercado por algo (dentro)."
+    },
+    {
+      "type": "text",
+      "question": "Qual é o oposto de 'Hot' (Quente)? (uma palavra)",
+      "correctAnswer": "Cold",
+      "xp": 5,
+      "tip": "Usado para descrever a baixa temperatura de uma bebida ou do clima."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Traduza 'Meu nome é Ana'.",
+      "options": ["I am name Ana", "My name is Ana", "Name is Ana my", "Ana is my name"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "A forma padrão e mais natural para se apresentar é usando 'My name is...'"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual preposição é usada para horas específicas? 'The meeting starts ___ 3 p.m.'",
+      "options": ["in", "on", "at", "to"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'At' para indicar horas e momentos pontuais (como 'at night' ou 'at noon')."
+    },
+    {
+      "type": "text",
+      "question": "Como se diz o número 'Dez' em inglês? (uma palavra)",
+      "correctAnswer": "Ten",
+      "xp": 5,
+      "tip": "É o último número da contagem básica."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução de 'I go to work every day'?",
+      "options": ["Eu vou para a escola hoje", "Eu gosto de trabalhar todos os dias", "Eu vou trabalhar todos os dias", "Eu estou no trabalho agora"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "A frase está no presente simples e fala sobre rotina. 'Every day' significa 'todos os dias'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "O plural de 'Apple' (maçã) é:",
+      "options": ["Apples", "Apple's", "Applis", "Applees"],
+      "correct": 0,
+      "xp": 10,
+      "tip": "Basta adicionar '-s' no final para formar o plural deste substantivo."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a palavra interrogativa (Wh-word) usada para perguntar 'Por que'? (uma palavra)",
+      "correctAnswer": "Why",
+      "xp": 5,
+      "tip": "Essa palavra é usada para pedir uma razão ou explicação."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "O pronome 'It' é usado para substituir:",
+      "options": ["Pessoas (feminino)", "Pessoas (masculino)", "Coisas ou animais", "Grupos de pessoas"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "'It' é o pronome da terceira pessoa do singular neutro (ele/ela) para objetos, lugares ou animais (não humanos)."
+    },
+    {
+      "type": "text",
+      "question": "Como se diz 'Obrigado(a), de nada' em inglês? (duas palavras)",
+      "correctAnswer": "You're welcome",
+      "xp": 5,
+      "tip": "É a resposta educada e padrão para 'Thank you'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Se hoje é Domingo, amanhã será... (Dia da Semana em inglês)",
+      "options": ["Saturday", "Monday", "Tuesday", "Friday"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "O primeiro dia da semana de trabalho (e o dia que vem depois de Sunday) é 'Monday'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Complete a frase: 'I ___ two sisters.'",
+      "options": ["am", "is", "have", "do"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use o verbo 'to have' para expressar posse ou relações familiares. 'I have' (Eu tenho)."
+    },
+    {
+      "type": "text",
+      "question": "Como se diz o número 'Oito' em inglês? (uma palavra)",
+      "correctAnswer": "Eight",
+      "xp": 5,
+      "tip": "Cuidado com a ortografia, a letra 'g' e 'h' são silenciosas nesta palavra."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução mais comum para a pergunta 'Qual é o seu nome?'",
+      "options": ["How are you?", "What's your name?", "Where are you from?", "Who are you?"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "Use a contração 'What's' (What is) seguida de 'your name' para essa apresentação básica."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução de 'Cachorro'?",
+      "options": ["Cat", "Dog", "Bird", "Fish"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "O melhor amigo do homem em inglês é o 'Dog'. 'Cat' é gato."
+    },
+    {
+      "type": "text",
+      "question": "Qual é o pronome que substitui 'The book' (O livro)? (uma palavra, minúscula)",
+      "correctAnswer": "It",
+      "xp": 5,
+      "tip": "É o pronome neutro da terceira pessoa do singular, usado para objetos ou animais."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Complete com o Verbo To Be: 'They ___ happy today.'",
+      "options": ["am", "is", "are", "be"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Para o sujeito no plural ('They', 'We', 'You'), a conjugação correta do 'To Be' no presente é 'are'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual preposição de tempo é usada para um dia específico? 'The party is ___ Friday.'",
+      "options": ["in", "at", "on", "to"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Para dias da semana ('Friday', 'Monday') e datas completas, use a preposição 'on'."
+    },
+    {
+      "type": "text",
+      "question": "Como se diz 'Pequeno' em inglês? (uma palavra)",
+      "correctAnswer": "Small",
+      "xp": 5,
+      "tip": "Este é o oposto do adjetivo 'Big' (Grande)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução correta para 'Eu sou brasileiro(a)'?",
+      "options": ["I like Brazil", "I am Brazil", "I am Brazilian", "I born in Brazil"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Para indicar sua nacionalidade, você usa o Verbo To Be ('am') seguido do adjetivo de nacionalidade ('Brazilian')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual palavra interrogativa (Wh-word) é usada para perguntar 'Quando'? (uma palavra)",
+      "options": ["What", "Where", "When", "Which"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use 'When' para perguntar sobre tempo ou datas. Ex: 'When is your birthday?'"
+    },
+    {
+      "type": "text",
+      "question": "Como se diz 'Verde' em inglês? (uma palavra)",
+      "correctAnswer": "Green",
+      "xp": 5,
+      "tip": "É a cor da grama e de muitas árvores."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Complete a pergunta: '___ you work here?'",
+      "options": ["Are", "Is", "Do", "Does"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Use o auxiliar 'Do' para a maioria dos sujeitos ('I', 'You', 'We', 'They') em perguntas no presente simples."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a negação correta de 'She has a cat'?",
+      "options": ["She not has a cat.", "She doesn't has a cat.", "She doesn't have a cat.", "She don't have a cat."],
+      "correct": 2,
+      "xp": 10,
+      "tip": "A negação exige o auxiliar 'does not' ('doesn't') e o verbo principal volta à sua forma base: 'have'."
+    },
+    {
+      "type": "text",
+      "question": "Qual é a palavra em inglês para 'Café da manhã'? (uma palavra)",
+      "correctAnswer": "Breakfast",
+      "xp": 5,
+      "tip": "É a primeira refeição do dia, literalmente 'quebrando o jejum'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Onde está a caneta? 'The pen is ___ the table.' (debaixo da mesa)",
+      "options": ["on", "under", "in", "next to"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "'Under' é a preposição que indica a posição de algo abaixo de outra coisa."
+    },
+    {
+      "type": "text",
+      "question": "Qual é o oposto de 'Up' (para cima)? (uma palavra)",
+      "correctAnswer": "Down",
+      "xp": 5,
+      "tip": "Usado para indicar movimento ou posição para baixo."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual frase está na interrogativa correta com 'To Be'?",
+      "options": ["She is a doctor?", "Is a doctor she?", "Is she a doctor?", "A doctor is she?"],
+      "correct": 2,
+      "xp": 10,
+      "tip": "Em perguntas com 'To Be', a ordem é invertida: Verbo (Is) + Sujeito (she) + Complemento (a doctor)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Qual é a tradução de 'Eu quero beber água'?",
+      "options": ["I have water", "I want to drink water", "I like to eat water", "I drink want water"],
+      "correct": 1,
+      "xp": 10,
+      "tip": "Use o verbo 'want' (querer) seguido de 'to drink' (beber) e 'water' (água)."
+    },
+    {
+      "type": "text",
+      "question": "Como se diz 'Obrigado' de forma mais completa em inglês? (duas palavras)",
+      "correctAnswer": "Thank you",
+      "xp": 5,
+      "tip": "Embora 'Thanks' seja comum, esta é a versão completa e mais formal de agradecimento."
+    }
+  ]
+}

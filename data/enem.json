@@ -1,0 +1,171 @@
+{
+  "enem_questoes_ingles": [
+    {
+      "enem_ano": 2023,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 2,
+      "texto_apoio": [
+        "No man is an island,",
+        "Entire of itself;",
+        "Every man is a piece of the continent,",
+        "A part of the main. [...]",
+        "Any man's death diminishes me,",
+        "Because I am involved in mankind.",
+        "DONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento)."
+      ],
+      "enunciado": "Nesse poema, a expressão \"No man is an island\" (Nenhum homem é uma ilha) ressalta o(a)",
+      "opcoes": [
+        { "letra": "a", "descricao": "desejo de isolamento do ser humano na contemporaneidade." },
+        { "letra": "b", "descricao": "caráter dependente das relações interpessoais." },
+        { "letra": "c", "descricao": "impacto da natureza na condição de mortalidade." },
+        { "letra": "d", "descricao": "vocação do indivíduo para a vida religiosa." },
+        { "letra": "e", "descricao": "capacidade de superação individual." }
+      ],
+      "gabarito": "b",
+      "justificativa": "A metáfora 'Nenhum homem é uma ilha' é explicitamente seguida pela afirmação de que 'todo homem é um pedaço do continente', e 'a morte de qualquer homem me diminui, porque estou envolvido na humanidade'. Isso sublinha a ideia de que os seres humanos são interdependentes e conectados."
+    },
+    {
+      "enem_ano": 2023,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 3,
+      "texto_apoio": [
+        "Things We Carry on the Sea",
+        "We carry tears in our eyes: good-bye father, good-bye mother",
+        "We carry soil in small bags: may home never fade in our hearts",
+        "We carry carnage of mining, droughts, floods, genocides",
+        "We carry dust of our families and neighbors incinerated in mushroom clouds",
+        "We carry our islands. built on our ancestors backs",
+        "We carry old homes along the spine, new dreams in our chests",
+        "We carry yesterday, today and tomorrow",
+        "Were orphans of the wars forced upon us",
+        "Were refugees of the sea rising from industrial wastes",
+        "And we carry our mother tongues [...]",
+        "As we drift... in our rubber boats... from shore... to shore... to shore...",
+        "PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento)."
+      ],
+      "enunciado": "Ao retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)",
+      "opcoes": [
+        { "letra": "a", "descricao": "resgate de tradições familiares e comunitárias." },
+        { "letra": "b", "descricao": "necessidade de preservação das reservas marinhas." },
+        { "letra": "c", "descricao": "rejeição aos laços com o país de origem." },
+        { "letra": "d", "descricao": "sentimento de perda de identidade cultural." },
+        { "letra": "e", "descricao": "abandono de todos os pertences materiais." }
+      ],
+      "gabarito": "d",
+      "justificativa": "O poema lista o que os refugiados 'carregam': lágrimas, terra (solo), poeira de famílias, ilhas e 'nossas línguas maternas' ('our mother tongues'). Embora carreguem a memória e a língua, eles se definem como 'órfãos das guerras' e 'refugiados da subida do mar', destacando que o deslocamento forçado (viagem marítima) resulta na perda de seu lar e, consequentemente, da identidade cultural ligada à terra e à origem ('may home never fade in our hearts')."
+    },
+    {
+      "enem_ano": 2022,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 1,
+      "texto_apoio": [
+        "In a study that spanned 27 countries, students were asked to rank in order of preference 10 possible features of a job. Overall, the number one preference was 'a good relationship with colleagues', followed by 'interesting work' and 'a good salary'. A job that is secure came in fourth and opportunities for promotion, fifth.",
+        "DISPONÍVEL EM: www.bbc.co.uk. Acesso em: 13 ago. 2021 (adaptado)."
+      ],
+      "enunciado": "A pesquisa com estudantes de 27 países revela que a principal prioridade deles no momento de escolher um emprego é",
+      "opcoes": [
+        { "letra": "a", "descricao": "a possibilidade de ascensão na carreira." },
+        { "letra": "b", "descricao": "o bom relacionamento com os colegas." },
+        { "letra": "c", "descricao": "o salário compatível com o mercado." },
+        { "letra": "d", "descricao": "a estabilidade financeira e profissional." },
+        { "letra": "e", "descricao": "o nível de interesse pelas tarefas." }
+      ],
+      "gabarito": "b",
+      "justificativa": "O texto afirma: 'Overall, the number one preference was 'a good relationship with colleagues'' (No geral, a preferência número um foi 'um bom relacionamento com os colegas'). A questão pede a principal prioridade, que é explicitamente citada como a número um."
+    },
+    {
+      "enem_ano": 2022,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 4,
+      "texto_apoio": [
+        "If you visit a museum or an art gallery, you are likely to be told, “Don’t touch the exhibits.” (...) Sometimes it is because touching can cause damage, but more often it is to prevent theft. If you look at a painting closely, you will probably be distracted and not notice the person next to you who is trying to take your wallet. Museums are full of people who are careless with their possessions, and criminals know this.",
+        "DISPONÍVEL EM: www.artofmanliness.com. Acesso em: 12 nov. 2021 (adaptado)."
+      ],
+      "enunciado": "No texto, a proibição de tocar nas obras expostas em museus e galerias é justificada pela preocupação com a",
+      "opcoes": [
+        { "letra": "a", "descricao": "distração do visitante com a observação minuciosa do trabalho." },
+        { "letra": "b", "descricao": "proteção da obra de arte de possíveis danos físicos." },
+        { "letra": "c", "descricao": "segurança dos pertences dos frequentadores." },
+        { "letra": "d", "descricao": "possibilidade de furto das peças em exposição." },
+        { "letra": "e", "descricao": "falta de cuidado do público com o patrimônio." }
+      ],
+      "gabarito": "c",
+      "justificativa": "O texto apresenta duas razões para a proibição: 'Sometimes it is because touching can cause damage, but **more often it is to prevent theft**' (às vezes é porque tocar pode causar dano, mas **mais frequentemente é para prevenir roubo**). A explicação detalhada se concentra no roubo de carteiras ('take your wallet') enquanto o visitante se distrai. Portanto, a principal preocupação é a segurança dos pertences dos frequentadores."
+    },
+    {
+      "enem_ano": 2021,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 1,
+      "texto_apoio": [
+        "We are more and more engaged with mobile technology. People are using mobile technology for all sorts of everyday functions: communicating, reading the news, managing finances, and even taking photos. This high level of engagement means that mobile technology users are constantly interacting with the design of their mobile devices and the applications they use on them. But if we are constantly interacting with mobile technology, why are so many people dissatisfied with their mobile experiences? This dissatisfaction often stems from poor mobile design.",
+        "DISPONÍVEL EM: www.interaction-design.org. Acesso em: 13 dez. 2017 (adaptado)."
+      ],
+      "enunciado": "A principal função do texto é",
+      "opcoes": [
+        { "letra": "a", "descricao": "apresentar novas tecnologias móveis." },
+        { "letra": "b", "descricao": "explicar as razões da satisfação dos usuários." },
+        { "letra": "c", "descricao": "discutir a origem da insatisfação dos usuários de tecnologia móvel." },
+        { "letra": "d", "descricao": "defender a interação constante do usuário com o celular." },
+        { "letra": "e", "descricao": "alertar sobre os riscos de segurança no uso de aplicativos." }
+      ],
+      "gabarito": "c",
+      "justificativa": "O texto começa descrevendo o alto engajamento com a tecnologia móvel, mas culmina em uma pergunta-chave: 'But if we are constantly interacting with mobile technology, why are so many people dissatisfied with their mobile experiences?' (Mas se estamos constantemente interagindo... por que tantas pessoas estão insatisfeitas?). A resposta, 'This dissatisfaction often stems from poor mobile design', revela o tema central: a discussão sobre a origem da insatisfação."
+    },
+    {
+      "enem_ano": 2021,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 5,
+      "texto_apoio": [
+        "Why is it that our most basic, day-to-day interactions with our environment are so often left unanalyzed? Take, for example, the ubiquitous door. (...) Why is it that, in a world of smart design, we still have to think about which way to push or pull a door? (...) In his book The Design of Everyday Things, Donald Norman coined the term 'Norman Door' for doors that are so badly designed they require a sign to explain how they work. These doors are a testament to the failings of product design.",
+        "DISPONÍVEL EM: www.99percentinvisible.org. Acesso em: 11 dez. 2017 (adaptado)."
+      ],
+      "enunciado": "O problema abordado no texto refere-se à",
+      "opcoes": [
+        { "letra": "a", "descricao": "complexidade da interação humana com o ambiente." },
+        { "letra": "b", "descricao": "obsolescência de itens básicos da vida moderna." },
+        { "letra": "c", "descricao": "ausência de análise de objetos de uso cotidiano." },
+        { "letra": "d", "descricao": "fragilidade do design de alguns produtos." },
+        { "letra": "e", "descricao": "dificuldade de identificação de portas em edifícios." }
+      ],
+      "gabarito": "d",
+      "justificativa": "O texto critica as 'Norman Doors' (Portas de Norman) como sendo 'so badly designed' (tão mal desenhadas) que falham em sua função básica. A última frase resume o problema: 'These doors are a testament to the **failings of product design**' (Essas portas são um testemunho das falhas do design de produtos). Falhas no design se referem à fragilidade ou má qualidade do design."
+    },
+    {
+      "enem_ano": 2022,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 5,
+      "texto_apoio": [
+        "In a recent study, researchers found that students who slept less than six hours a night did worse on **cognitive tests** than those who got nine hours of sleep. The researchers also found that a student’s **GPA** was linked to the amount of sleep they got. Those who consistently got eight hours of sleep or more had a better GPA than students who slept less. However, only 30% of college students get enough sleep."
+      ],
+      "enunciado": "A pesquisa mencionada no texto indica a relação entre",
+      "opcoes": [
+        { "letra": "a", "descricao": "a qualidade do sono e a dificuldade de concentração." },
+        { "letra": "b", "descricao": "o aumento do sono e a diminuição da nota nos testes cognitivos." },
+        { "letra": "c", "descricao": "o tempo de sono e o desempenho acadêmico." },
+        { "letra": "d", "descricao": "o sono insuficiente e a tendência ao estresse." },
+        { "letra": "e", "descricao": "a rotina de estudos e a indisposição para a aprendizagem." }
+      ],
+      "gabarito": "c",
+      "justificativa": "O texto correlaciona o tempo de sono ('slept less than six hours' ou 'got nine hours of sleep') com o desempenho em testes cognitivos ('did worse on cognitive tests') e, principalmente, com o 'GPA' (Grade Point Average, que é a média de notas, um indicador de desempenho acadêmico). A conclusão é que mais horas de sono (oito ou mais) levam a um 'better GPA', estabelecendo a relação entre tempo de sono e desempenho acadêmico."
+    },
+    {
+      "enem_ano": 2023,
+      "disciplina": "Língua Estrangeira (Inglês)",
+      "questao_numero": 1,
+      "texto_apoio": [
+        "The average american tosses 300 pounds of food each year, making food the number one contributor to America’s landfills. Eat your leftovers and keep your perishables in the fridge — the Earth is counting on it.",
+        "Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado)."
+      ],
+      "enunciado": "Esse cartaz de campanha sugere que",
+      "opcoes": [
+        { "letra": "a", "descricao": "o descarte de lixo tem provocado a morte de animais." },
+        { "letra": "b", "descricao": "a falta de consumo de perecíveis leva ao desperdício de alimentos." },
+        { "letra": "c", "descricao": "o consumo de alimentos estragados prejudica a saúde da população." },
+        { "letra": "d", "descricao": "a maior parte do lixo urbano é composta de embalagens plásticas." },
+        { "letra": "e", "descricao": "o mau uso da geladeira contribui para a poluição da atmosfera." }
+      ],
+      "gabarito": "b",
+      "justificativa": "O texto afirma que a comida é o 'number one contributor to America’s landfills' (o maior contribuinte para aterros sanitários). A solução proposta ('Eat your leftovers and keep your perishables in the fridge') visa o consumo de sobras ('leftovers') e a correta conservação de perecíveis ('perishables') para evitar que sejam jogados fora, combatendo assim o desperdício de alimentos, que é o principal problema citado."
+    }
+  ]
+}

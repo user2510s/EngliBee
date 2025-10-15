@@ -1,0 +1,45 @@
+{
+    "topics": [
+        {
+            "id": "verbo_to_be",
+            "name": "Verbo To Be",
+            "nivel": "Básico",
+            "description": "O verbo **to be** significa 'ser' ou 'estar'. É um dos verbos mais importantes em inglês. No presente, tem três formas: **am**, **is** e **are**; no passado, temos **was** e **were**. Ele é usado para: identidade, características, estados, condições, idade, profissão e como verbo auxiliar em tempos contínuos e passivos.\n\n**Formas no presente:**\n- I **am**\n- You/We/They **are**\n- He/She/It **is**\n\n**Formas no passado:**\n- I/He/She/It **was**\n- You/We/They **were**\n\n**Exemplos de uso:** identidade: She **is** a teacher. → Ela é professora; estado: I **am** tired. → Eu estou cansado; como auxiliar: She **is studying** English. → Ela está estudando inglês.",
+            "examples": [
+                "**I am** happy. (Eu estou feliz.)",
+                "**You are** smart. (Você é inteligente.)",
+                "**He is** tall. (Ele é alto.)",
+                "**She is** a teacher. (Ela é uma professora.)",
+                "**It is** cold today. (Está frio hoje.)",
+                "**We are** friends. (Nós somos amigos.)",
+                "**They are** tired. (Eles estão cansados.)",
+                "**I was** tired yesterday. (Eu estava cansado ontem.)",
+                "**You were** happy last week. (Você estava feliz semana passada.)",
+                "**He was** late. (Ele estava atrasado.)",
+                "**She was** excited. (Ela estava animada.)",
+                "**We were** ready. (Nós estávamos prontos.)",
+                "**They were** sad. (Eles estavam tristes.)",
+                "**I am not** sad. (Eu não estou triste.)",
+                "**He is not** late. (Ele não está atrasado.)",
+                "**They are not** tired. (Eles não estão cansados.)",
+                "**Am I** correct? (Estou correto?)",
+                "**Is she** your sister? (Ela é sua irmã?)",
+                "**Are they** ready? (Eles estão prontos?)"
+            ],
+            "tip": "Lembre-se:\n- Presente: 'am' com I, 'is' com he/she/it e 'are' com you/we/they.\n- Passado: 'was' com I/he/she/it e 'were' com you/we/they.\n- Para formar negativas: adicione 'not' (I am not, He is not, They are not).\n- Para perguntas: inverta o sujeito com o verbo (Am I?, Is he?, Are they?).\n- Contrações comuns: I am → I'm, She is → She's, They are → They're.",
+            "video": "https://www.youtube.com/watch?v=j_JHswzitAk"
+        },
+        {
+            "id": "simple_present",
+            "name": "Simple Present",
+            "nivel": "Intermediário",
+            "description": "O tempo verbal **Simple Present** é usado para ações habituais, fatos e rotinas.",
+            "examples": [
+                "**I play** soccer every day.",
+                "**She works** in a bank.",
+                "**They study** English on Mondays."
+            ],
+            "tip": "Adicione **-s** ou **-es** na 3ª pessoa do singular (he, she, it)."
+        }
+    ]
+}
