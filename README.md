@@ -1,5 +1,5 @@
 <div align="left" style="position: relative;">
-<img src="https://i.pinimg.com/736x/76/f8/d6/76f8d6d9d1b5fa2702f30dbaafd2b0f5.jpg" align="right" width="30%" style="margin: -20px 0 0 20px;">
+<img src="https://i.pinimg.com/1200x/da/eb/82/daeb828e434c33edc627fd2774f2e21c.jpg" align="right" width="25%" style="margin: -20px 0 0 20px;">
 <h1>ENGLIBEE</h1>
 <p align="left">
 	<em><code>❯ REPLACE-ME</code></em>
