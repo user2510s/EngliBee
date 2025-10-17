@@ -1,6 +1,6 @@
 <div align="left" style="position: relative;">
 <img src="https://i.pinimg.com/1200x/da/eb/82/daeb828e434c33edc627fd2774f2e21c.jpg" align="right" width="25%" style="margin: -20px 0 0 20px;">
-<h1>ENGLIBEE</h1>
+<h1>ENGLIBEE discordBot</h1>
 <p align="left">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
